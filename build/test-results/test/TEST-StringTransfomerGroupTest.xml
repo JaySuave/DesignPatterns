@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StringTransfomerGroupTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-13T20:04:15" hostname="LAPTOP-TG6UCA0T" time="0.026">
-  <properties/>
-  <testcase name="transformerGroup()" classname="StringTransfomerGroupTest" time="0.024"/>
-  <testcase name="transformerComposite()" classname="StringTransfomerGroupTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
